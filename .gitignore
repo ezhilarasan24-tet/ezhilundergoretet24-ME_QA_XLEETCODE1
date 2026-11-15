@@ -2,4 +2,4 @@
 bin/
 .gradle/
 build/
-data/
+data/gradle.properties
